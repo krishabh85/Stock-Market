@@ -1,0 +1,3 @@
+[submodule "Client"]
+	path = Client
+	url = https://github.com/krishabh85/Stock-Market
